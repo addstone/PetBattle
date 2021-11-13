@@ -799,7 +799,8 @@
         "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
       }
     ],
-    "_useOriginalSize": false,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_string": "账       号",
     "_N$string": "账       号",
     "_fontSize": 40,
@@ -1107,7 +1108,8 @@
         "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
       }
     ],
-    "_useOriginalSize": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_string": "",
     "_N$string": "",
     "_fontSize": 30,
@@ -1161,7 +1163,6 @@
       "__id__": 17
     },
     "_enabled": true,
-    "_useOriginalSize": false,
     "_string": "",
     "returnType": 0,
     "maxLength": 16,
@@ -1361,7 +1362,8 @@
         "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
       }
     ],
-    "_useOriginalSize": false,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_string": "密       码",
     "_N$string": "密       码",
     "_fontSize": 40,
@@ -1669,7 +1671,8 @@
         "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
       }
     ],
-    "_useOriginalSize": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_string": "",
     "_N$string": "",
     "_fontSize": 30,
@@ -1723,7 +1726,6 @@
       "__id__": 30
     },
     "_enabled": true,
-    "_useOriginalSize": false,
     "_string": "",
     "returnType": 0,
     "maxLength": 16,
@@ -1923,7 +1925,8 @@
         "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
       }
     ],
-    "_useOriginalSize": false,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_string": "确认密码",
     "_N$string": "确认密码",
     "_fontSize": 40,
@@ -2231,7 +2234,8 @@
         "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
       }
     ],
-    "_useOriginalSize": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_string": "",
     "_N$string": "",
     "_fontSize": 30,
@@ -2285,7 +2289,6 @@
       "__id__": 43
     },
     "_enabled": true,
-    "_useOriginalSize": false,
     "_string": "",
     "returnType": 0,
     "maxLength": 16,
@@ -2456,7 +2459,7 @@
         1,
         1,
         1,
-        1
+        0
       ]
     },
     "_eulerAngles": {
@@ -2637,7 +2640,7 @@
         1,
         1,
         1,
-        1
+        0
       ]
     },
     "_eulerAngles": {
@@ -3127,7 +3130,8 @@
         "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
       }
     ],
-    "_useOriginalSize": false,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_string": "记住密码",
     "_N$string": "记住密码",
     "_fontSize": 32,
