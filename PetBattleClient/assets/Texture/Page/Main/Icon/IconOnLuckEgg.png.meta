@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "8368a1f4-e210-4b00-a16b-4a4e5b26b6be",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "IconOnLuckEgg": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f01d3eaf-62ed-4348-8533-55349c8d23da",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8368a1f4-e210-4b00-a16b-4a4e5b26b6be",
       "trimType": "auto",
       "trimThreshold": 1,

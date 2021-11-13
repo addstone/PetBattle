@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "00a821a9-7b8e-4f90-a9b5-ae782d28a6b9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Font101": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "37c9c678-31ec-4992-9c62-6cc4d285fbdd",
+      "importer": "sprite-frame",
       "rawTextureUuid": "00a821a9-7b8e-4f90-a9b5-ae782d28a6b9",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,5 +1,6 @@
 {
-  "ver": "1.0.1",
+  "ver": "1.0.3",
   "uuid": "facceafb-604d-4ab9-a6df-9db659745dca",
+  "importer": "dragonbones",
   "subMetas": {}
 }

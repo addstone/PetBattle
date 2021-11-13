@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "1d32c9f6-ec08-49ae-bf7e-b1f2a9d070b1",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Banner1": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "72ad72c6-4588-49f1-923c-295b19fb4f25",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1d32c9f6-ec08-49ae-bf7e-b1f2a9d070b1",
       "trimType": "auto",
       "trimThreshold": 1,

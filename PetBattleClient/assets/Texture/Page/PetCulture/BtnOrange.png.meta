@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "ba441cc5-1eb6-4ffd-bafa-10b76a9b4b1c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "BtnOrange": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "934c78b7-55a5-4798-aae5-e08899f46794",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ba441cc5-1eb6-4ffd-bafa-10b76a9b4b1c",
       "trimType": "auto",
       "trimThreshold": 1,

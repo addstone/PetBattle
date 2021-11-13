@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "c927b3d9-e9dc-4e40-9849-00483ea8b9ef",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "FriendBar": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3a732fbd-4987-4dd1-a982-82be3d7a3ade",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c927b3d9-e9dc-4e40-9849-00483ea8b9ef",
       "trimType": "auto",
       "trimThreshold": 1,

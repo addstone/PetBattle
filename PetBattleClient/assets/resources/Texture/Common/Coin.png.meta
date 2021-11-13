@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "24da500c-63f6-4919-bf20-7766f4a0af2d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Coin": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f3688cf7-4b8b-4b3a-b60b-fcc20eb6338f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "24da500c-63f6-4919-bf20-7766f4a0af2d",
       "trimType": "auto",
       "trimThreshold": 1,

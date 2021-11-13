@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "1d16ba81-3800-437c-913b-5d8d29db3655",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Toast": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "cda3e482-767f-48f8-9556-16fdda10fdf1",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1d16ba81-3800-437c-913b-5d8d29db3655",
       "trimType": "auto",
       "trimThreshold": 1,

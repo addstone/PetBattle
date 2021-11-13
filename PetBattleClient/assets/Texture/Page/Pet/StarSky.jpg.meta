@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "6d412deb-f09c-47e6-a8c8-eab32ec49911",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "StarSky": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a35b8592-c3df-4c21-9a88-3173ba63b1a7",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6d412deb-f09c-47e6-a8c8-eab32ec49911",
       "trimType": "auto",
       "trimThreshold": 1,

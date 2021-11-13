@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "1c36399f-4ef2-4650-900e-17a5455e34fd",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "PetEnergyBar": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d7da3720-0849-4126-80f0-3ff60932768d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1c36399f-4ef2-4650-900e-17a5455e34fd",
       "trimType": "auto",
       "trimThreshold": 1,

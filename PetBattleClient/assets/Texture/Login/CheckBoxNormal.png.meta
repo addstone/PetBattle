@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "669f42f8-2f12-4e5c-911c-e250c7975487",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "CheckBoxNormal": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "40cd4a83-d5d6-4e42-a16a-78a40d6f3187",
+      "importer": "sprite-frame",
       "rawTextureUuid": "669f42f8-2f12-4e5c-911c-e250c7975487",
       "trimType": "custom",
       "trimThreshold": 1,

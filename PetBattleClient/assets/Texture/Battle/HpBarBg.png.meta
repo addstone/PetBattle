@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "dbf35fb1-7d3f-4f4b-a923-18d573e6a327",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "HpBarBg": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8bf8202b-fc25-4ab8-92ce-c7e3283bcf6a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "dbf35fb1-7d3f-4f4b-a923-18d573e6a327",
       "trimType": "auto",
       "trimThreshold": 1,

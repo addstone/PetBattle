@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "f3b768bf-4b5e-4bf7-874e-63858bff3f1b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "AreaBook": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "41559188-b51f-46bc-8488-c7e2650835b6",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f3b768bf-4b5e-4bf7-874e-63858bff3f1b",
       "trimType": "auto",
       "trimThreshold": 1,
