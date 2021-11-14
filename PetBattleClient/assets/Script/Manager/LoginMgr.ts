@@ -78,7 +78,7 @@ export default class NewClass extends cc.Component {
 
     login() {
         if (this.isLoginPanel) {
-            if (this.input_username.string.length < 6) {
+            if (this.input_username.string.length < 1) {
                 Camper.getInstance().showToast("账号长度至少6位");
                 return;
             }
@@ -86,7 +86,7 @@ export default class NewClass extends cc.Component {
                 Camper.getInstance().showToast("账号只能为字母和数字");
                 return;
             }
-            if (this.input_password1.string.length < 6) {
+            if (this.input_password1.string.length < 1) {
                 Camper.getInstance().showToast("密码长度至少6位");
                 return;
             }
@@ -132,7 +132,7 @@ export default class NewClass extends cc.Component {
             this.input_password1.string = "";
             this.input_password2.string = "";
         } else {
-            if (this.input_username.string.length < 6) {
+            if (this.input_username.string.length < 1) {
                 Camper.getInstance().showToast("账号长度至少6位");
                 return;
             }
@@ -140,7 +140,7 @@ export default class NewClass extends cc.Component {
                 Camper.getInstance().showToast("账号只能为字母和数字");
                 return;
             }
-            if (this.input_password1.string.length < 6) {
+            if (this.input_password1.string.length < 1) {
                 Camper.getInstance().showToast("密码长度至少6位");
                 return;
             }
